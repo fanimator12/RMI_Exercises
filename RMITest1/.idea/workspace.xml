@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8197cfd3-6c69-418f-a7e0-29538f39907e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aUXDyWdlXSC482Zf56RSXwac6l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.RunClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RMITest1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.RunClient" />
+      <module name="RMITest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.RunServer" />
+      <module name="RMITest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RunServer" />
+      <item itemvalue="Application.RunClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunClient" />
+        <item itemvalue="Application.RunServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8197cfd3-6c69-418f-a7e0-29538f39907e" name="Default Changelist" comment="" />
+      <created>1586791030016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586791030016</updated>
+      <workItem from="1586791033226" duration="4306000" />
+      <workItem from="1588616640027" duration="28000" />
+      <workItem from="1589560480550" duration="21000" />
+      <workItem from="1592338980738" duration="15000" />
+      <workItem from="1609696860582" duration="2824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1089" y="186" width="816" height="729" key="#Intentions" timestamp="1586792940608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1089" y="186" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1586792940608" />
+    <state x="1301" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1586792656400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1301" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586792656400" />
+    <state width="804" height="266" key="GridCell.Tab.0.bottom" timestamp="1586816932726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="804" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586816932726" />
+    <state width="804" height="266" key="GridCell.Tab.0.center" timestamp="1586816932726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="804" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586816932726" />
+    <state width="804" height="266" key="GridCell.Tab.0.left" timestamp="1586816932726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="804" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586816932726" />
+    <state width="804" height="266" key="GridCell.Tab.0.right" timestamp="1586816932726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="804" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586816932726" />
+    <state x="1140" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1592338980707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1140" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592338980707" />
+    <state x="685" y="148" key="new project wizard" timestamp="1586793519312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="148" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586793519312" />
+  </component>
+</project>

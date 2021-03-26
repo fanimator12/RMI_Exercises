@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9964a8e1-4264-44e6-b284-c8e05e1af823" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aUhGeS5JYdWccbEwbM93EaAJzt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/uppercasebroadcast" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java Projects\RMITest3\src\uppercasebroadcast" />
+      <recent name="D:\Java Projects\RMITest3" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9964a8e1-4264-44e6-b284-c8e05e1af823" name="Default Changelist" comment="" />
+      <created>1586795985432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586795985432</updated>
+      <workItem from="1586795988223" duration="1435000" />
+      <workItem from="1588617544527" duration="3426000" />
+      <workItem from="1588679493425" duration="944000" />
+      <workItem from="1588755692884" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1357" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1586796269440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1357" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586796269440" />
+    <state x="1097" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1588755695104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1097" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588755695104" />
+    <state x="685" y="148" key="new project wizard" timestamp="1588755818748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="148" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588755818748" />
+  </component>
+</project>

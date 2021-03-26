@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bffe4238-3ccc-4806-8214-bcab77742fee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aUcGlHYyfNS4xvW2bZxvIXpWrZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/uppercasecallback" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java Projects\RMITest2\src\uppercasecallback" />
+      <recent name="D:\Java Projects\RMITest2\src\uppercasereturn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunClient">
+    <configuration name="RunClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uppercasereturn.client.RunClient" />
+      <module name="RMITest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uppercasereturn.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uppercasereturn.server.RunServer" />
+      <module name="RMITest2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uppercasereturn.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunClient" />
+      <item itemvalue="Application.RunServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunClient" />
+        <item itemvalue="Application.RunServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bffe4238-3ccc-4806-8214-bcab77742fee" name="Default Changelist" comment="" />
+      <created>1586793519340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586793519340</updated>
+      <workItem from="1586793522227" duration="3074000" />
+      <workItem from="1588619801452" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586795730833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586795730833" />
+    <state x="1267" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1586793896973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1267" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586793896973" />
+    <state width="768" height="173" key="GridCell.Tab.0.bottom" timestamp="1586816937073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="768" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586816937073" />
+    <state width="768" height="173" key="GridCell.Tab.0.center" timestamp="1586816937073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="768" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586816937073" />
+    <state width="768" height="173" key="GridCell.Tab.0.left" timestamp="1586816937073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="768" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586816937073" />
+    <state width="768" height="173" key="GridCell.Tab.0.right" timestamp="1586816937073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="768" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586816937073" />
+    <state x="685" y="179" key="new project wizard" timestamp="1586795985403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="179" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586795985403" />
+  </component>
+</project>
